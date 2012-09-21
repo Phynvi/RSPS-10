@@ -1,0 +1,8 @@
+object = 2863	5353	2
+object = 2863	5354	2
+object = 2863	5355	2
+
+object = 2924	5332	2
+object = 2925	5332	2
+object = 2926	5332	2
+[ENDOFOBJECTLIST]

@@ -1,0 +1,4173 @@
+<list>
+
+//KQ
+<npc><id>1158</id><location><x>3485</x><y>9509</y><z>0</z></location></npc> 
+//End KQ
+
+//Bandits
+<npc><id>6388</id><location><x>3176</x><y>2981</y><z>0</z></location></npc> 
+<npc><id>6388</id><location><x>3168</x><y>2987</y><z>0</z></location></npc> 
+<npc><id>6388</id><location><x>3170</x><y>2982</y><z>0</z></location></npc> 
+<npc><id>6388</id><location><x>3158</x><y>2978</y><z>0</z></location></npc> 
+<npc><id>6388</id><location><x>3162</x><y>2981</y><z>0</z></location></npc> 
+<npc><id>6388</id><location><x>3184</x><y>2983</y><z>0</z></location></npc> 
+<npc><id>6388</id><location><x>3187</x><y>2985</y><z>0</z></location></npc> 
+<npc><id>6388</id><location><x>3173</x><y>2971</y><z>0</z></location></npc> 
+<npc><id>6388</id><location><x>3171</x><y>2974</y><z>0</z></location></npc> 
+//End Bandits
+
+
+
+//Experiments
+<npc><id>1677</id><location><x>3574</x><y>9927</y><z>0</z></location></npc>
+<npc><id>1678</id><location><x>3560</x><y>9947</y><z>0</z></location></npc>
+<npc><id>1677</id><location><x>3574</x><y>9959</y><z>0</z></location></npc>
+<npc><id>1677</id><location><x>3566</x><y>9962</y><z>0</z></location></npc>
+<npc><id>1678</id><location><x>3552</x><y>9956</y><z>0</z></location></npc>
+<npc><id>1677</id><location><x>3540</x><y>9962</y><z>0</z></location></npc>
+<npc><id>1677</id><location><x>3554</x><y>9946</y><z>0</z></location></npc>
+<npc><id>1678</id><location><x>3537</x><y>9929</y><z>0</z></location></npc>
+<npc><id>1678</id><location><x>3551</x><y>9931</y><z>0</z></location></npc>
+<npc><id>1677</id><location><x>3555</x><y>9927</y><z>0</z></location></npc>
+//End Experiments
+
+//Tarn
+<npc><id>5421</id><location><x>2461</x><y>4772</y><z>0</z></location></npc>
+//End tarn
+
+
+//Mith drags
+<npc><id>5363</id><location><x>1782</x><y>5357</y><z>1</z></location></npc>
+<npc><id>5363</id><location><x>1781</x><y>5340</y><z>1</z></location></npc>
+<npc><id>5363</id><location><x>1763</x><y>5339</y><z>1</z></location></npc>
+<npc><id>5363</id><location><x>1768</x><y>5333</y><z>1</z></location></npc>
+<npc><id>5363</id><location><x>1756</x><y>5326</y><z>1</z></location></npc>
+//End Mith drags
+
+
+
+//KBD
+<npc><id>50</id><location><x>2269</x><y>4695</y><z>0</z></location></npc>
+//end KBD
+
+//Metal drags
+<npc><id>1591</id><location><x>2705</x><y>9458</y><z>0</z></location></npc>
+<npc><id>1591</id><location><x>2707</x><y>9448</y><z>0</z></location></npc>
+<npc><id>1592</id><location><x>2704</x><y>9440</y><z>0</z></location></npc>
+<npc><id>1591</id><location><x>2705</x><y>9429</y><z>0</z></location></npc>
+<npc><id>1591</id><location><x>2710</x><y>9436</y><z>0</z></location></npc>
+<npc><id>1591</id><location><x>2716</x><y>9428</y><z>0</z></location></npc>
+<npc><id>1592</id><location><x>2727</x><y>9435</y><z>0</z></location></npc>
+<npc><id>1591</id><location><x>2735</x><y>9431</y><z>0</z></location></npc>
+<npc><id>1591</id><location><x>2734</x><y>9441</y><z>0</z></location></npc>
+<npc><id>1591</id><location><x>2727</x><y>9450</y><z>0</z></location></npc>
+<npc><id>1592</id><location><x>2736</x><y>9457</y><z>0</z></location></npc>
+<npc><id>1591</id><location><x>2720</x><y>9457</y><z>0</z></location></npc>
+<npc><id>1591</id><location><x>2719</x><y>9448</y><z>0</z></location></npc>
+//End Metal drags
+
+
+//Fally shops
+<npc><id>546</id><location><x>3009</x><y>3358</y><z>0</z></location></npc>
+<npc><id>682</id><location><x>3010</x><y>3358</y><z>0</z></location></npc>
+<npc><id>584</id><location><x>3011</x><y>3358</y><z>0</z></location></npc>
+<npc><id>551</id><location><x>3014</x><y>3358</y><z>0</z></location></npc>
+<npc><id>6970</id><location><x>3015</x><y>3358</y><z>0</z></location></npc>
+<npc><id>586</id><location><x>3016</x><y>3358</y><z>0</z></location></npc>
+<npc><id>554</id><location><x>3010</x><y>3362</y><z>0</z></location></npc>
+<npc><id>548</id><location><x>3010</x><y>3365</y><z>0</z></location></npc>
+//End Fally shops
+
+
+
+<npc><id>2783</id><location><x>3427</x><y>3543</y><z>0</z></location></npc>
+<npc><id>1699</id><location><x>1883</x><y>3237</y><z>0</z></location></npc>
+
+
+<npc>
+        <id>1</id>
+        <location>
+            <x>3164</x>
+            <y>3503</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3159</x>
+            <y>3498</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3169</x>
+            <y>3508</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+
+
+ <npc>
+        <id>1</id>
+        <location>
+            <x>3175</x>
+            <y>3499</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3170</x>
+            <y>3494</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3180</x>
+            <y>3504</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+
+ <npc>
+        <id>1</id>
+        <location>
+            <x>3177</x>
+            <y>3489</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3172</x>
+            <y>3484</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3182</x>
+            <y>3494</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+
+
+  <npc>
+        <id>1</id>
+        <location>
+            <x>3173</x>
+            <y>3479</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3168</x>
+            <y>3474</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3178</x>
+            <y>3484</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+
+
+
+<npc><id>2783</id><location><x>3414</x><y>3559</y><z>0</z></location></npc>
+<npc><id>2783</id><location><x>3424</x><y>3557</y><z>0</z></location></npc>
+<npc><id>2025</id><location><x>3565</x><y>3288</y><z>0</z></location></npc>
+<npc><id>2026</id><location><x>3575</x><y>3298</y><z>0</z></location></npc>
+<npc><id>2027</id><location><x>3577</x><y>3282</y><z>0</z></location></npc>
+<npc><id>2028</id><location><x>3566</x><y>3276</y><z>0</z></location></npc>
+<npc><id>2029</id><location><x>3553</x><y>3282</y><z>0</z></location></npc>
+<npc><id>2030</id><location><x>3557</x><y>3297</y><z>0</z></location></npc>
+<npc><id>1615</id><location><x>3428</x><y>3550</y><z>0</z></location></npc>
+<npc><id>1615</id><location><x>3418</x><y>3544</y><z>0</z></location></npc>
+<npc><id>2253</id><location><x>3212</x><y>3438</y><z>0</z></location></npc>
+<npc><id>6215</id><location><x>3422</x><y>3455</y><z>0</z></location></npc>
+<npc><id>6215</id><location><x>3410</x><y>3537</y><z>0</z></location></npc>
+<npc><id>6215</id><location><x>3422</x><y>3544</y><z>0</z></location></npc>
+<npc><id>7133</id><location><x>3099</x><y>5538</y><z>0</z></location></npc>
+<npc><id>7135</id><location><x>3110</x><y>5540</y><z>0</z></location></npc>
+<npc><id>7135</id><location><x>3097</x><y>5529</y><z>0</z></location></npc>
+<npc><id>7135</id><location><x>3088</x><y>5537</y><z>0</z></location></npc>
+<npc><id>7135</id><location><x>3098</x><y>5545</y><z>0</z></location></npc>
+<npc><id>1615</id><location><x>3418</x><y>3538</y><z>0</z></location></npc>
+<npc><id>6215</id><location><x>3412</x><y>3548</y><z>0</z></location></npc>
+<npc><id>1615</id><location><x>3421</x><y>3537</y><z>0</z></location></npc>
+//Avatars-
+<npc><id>8596</id><location><x>1967</x><y>3251</y><z>0</z></location></npc>
+<npc><id>8597</id><location><x>1807</x><y>3211</y><z>0</z></location></npc>
+ 
+ 
+//Pyrefiends and Jelly's!
+<npc><id>1636</id><location><x>1922</x><y>3219</y><z>0</z></location></npc>//Soul Wars Npc's
+<npc><id>1636</id><location><x>1924</x><y>3216</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1924</x><y>3213</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1921</x><y>3210</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1926</x><y>3208</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1929</x><y>3206</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1931</x><y>3209</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1929</x><y>3212</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1929</x><y>3217</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1934</x><y>3216</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1871</x><y>3254</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1873</x><y>3256</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1877</x><y>3256</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1879</x><y>3259</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1882</x><y>3258</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1892</x><y>3253</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1880</x><y>3255</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1885</x><y>3255</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1889</x><y>3252</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1899</x><y>3252</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1902</x><y>3250</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1904</x><y>3253</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1905</x><y>3249</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1895</x><y>3251</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1844</x><y>3248</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1847</x><y>3251</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1848</x><y>3248</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1848</x><y>3244</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1852</x><y>3247</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1852</x><y>3243</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1843</x><y>3243</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1838</x><y>3249</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1842</x><y>3254</y><z>0</z></location></npc>
+<npc><id>1636</id><location><x>1846</x><y>3254</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1882</x><y>3210</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1886</x><y>3207</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1884</x><y>3204</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1880</x><y>3205</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1879</x><y>3208</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1882</x><y>3211</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1878</x><y>3204</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1873</x><y>3208</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1890</x><y>3204</y><z>0</z></location></npc>
+<npc><id>1637</id><location><x>1889</x><y>3207</y><z>0</z></location></npc>//End of Soul Wars Npc's
+<npc><id>584</id><location><x>3168</x><y>3498</y><z>0</z></location></npc>
+<npc><id>546</id><location><x>3161</x><y>3498</y><z>0</z></location></npc>
+<npc><id>554</id><location><x>3156</x><y>3493</y><z>0</z></location></npc>
+<npc><id>551</id><location><x>3156</x><y>3486</y><z>0</z></location></npc>
+<npc><id>6970</id><location><x>3161</x><y>3481</y><z>0</z></location></npc>
+<npc><id>548</id><location><x>3168</x><y>3481</y><z>0</z></location></npc>
+<npc><id>682</id><location><x>3173</x><y>3486</y><z>0</z></location></npc>
+<npc><id>586</id><location><x>3173</x><y>3493</y><z>0</z></location></npc>
+<npc><id>2745</id><location><x>2403</x><y>5085</y><z>0</z></location></npc>
+<npc><id>8351</id><location><x>2595</x><y>5727</y><z>0</z></location></npc>
+<npc><id>8350</id><location><x>2602</x><y>5736</y><z>0</z></location></npc>
+<npc><id>8350</id><location><x>2611</x><y>5727</y><z>0</z></location></npc>
+<npc><id>8350</id><location><x>2603</x><y>5719</y><z>0</z></location></npc>
+<npc><id>5666</id><location><x>1921</x><y>3244</y><z>0</z></location></npc>
+<npc><id>494</id><location><x>3164</x><y>3488</y><z>0</z></location></npc>
+<npc><id>494</id><location><x>3163</x><y>3490</y><z>0</z></location></npc>
+<npc><id>494</id><location><x>3165</x><y>3491</y><z>0</z></location></npc>
+<npc><id>494</id><location><x>3166</x><y>3489</y><z>0</z></location></npc>
+<npc><id>5529</id><location><x>2326</x><y>3798</y><z>0</z></location></npc>
+<npc><id>5529</id><location><x>2325</x><y>3795</y><z>0</z></location></npc>
+<npc><id>5529</id><location><x>2321</x><y>3797</y><z>0</z></location></npc>
+<npc><id>5529</id><location><x>2318</x><y>3796</y><z>0</z></location></npc>
+<npc><id>5529</id><location><x>2321</x><y>3792</y><z>0</z></location></npc>
+<npc><id>5529</id><location><x>2318</x><y>3790</y><z>0</z></location></npc>
+<npc><id>5529</id><location><x>2317</x><y>3787</y><z>0</z></location></npc>
+<npc><id>5529</id><location><x>2322</x><y>3785</y><z>0</z></location></npc>
+<npc><id>5529</id><location><x>2326</x><y>3791</y><z>0</z></location></npc>
+<npc><id>5529</id><location><x>2323</x><y>3790</y><z>0</z></location></npc>
+<npc><id>5529</id><location><x>2328</x><y>3793</y><z>0</z></location></npc>
+<npc><id>5529</id><location><x>2327</x><y>3796</y><z>0</z></location></npc>
+<npc><id>494</id><location><x>3096</x><y>3493</y><z>0</z></location></npc>
+<npc><id>494</id><location><x>3096</x><y>3491</y><z>0</z></location></npc>
+<npc><id>494</id><location><x>3096</x><y>3489</y><z>0</z></location></npc>
+<npc><id>494</id><location><x>3097</x><y>3494</y><z>0</z></location></npc>
+<npc><id>6267</id><location><x>2836</x><y>3431</y><z>0</z></location></npc>
+<npc><id>322</id><location><x>2838</x><y>3431</y><z>0</z></location></npc>
+<npc><id>320</id><location><x>2840</x><y>3431</y><z>0</z></location></npc>
+                 ID	 AX	 AY     HI	NEX	NEY	SWX	SWY	NN
+/**GodWars**\
+<npc><id>6260</id><location><x>2870</x><y>5363</y><z>2</z></location></npc>
+<npc><id>6261</id><location><x>2866</x><y>5366</y><z>2</z></location></npc>
+<npc><id>6263</id><location><x>2874</x><y>5366</y><z>2</z></location></npc>
+<npc><id>6265</id><location><x>2870</x><y>5367</y><z>2</z></location></npc>
+<npc><id>6203</id><location><x>2930</x><y>5325</y><z>2</z></location></npc>	K'ril Tsutsaroth
+<npc><id>6208</id><location><x>2934</x><y>5328</y><z>2</z></location></npc>	Zakl'n Gritch
+<npc><id>6206</id><location><x>2934</x><y>5321</y><z>2</z></location></npc>	Balfrug Kreeyath
+<npc><id>6204</id><location><x>2935</x><y>5325</y><z>2</z></location></npc>	Tstanon Karlak
+<npc><id>6247</id><location><x>2898</x><y>5265</y><z>0</z></location></npc>	Zilyana
+<npc><id>6248</id><location><x>2900</x><y>5260</y><z>0</z></location></npc>	Starlight
+<npc><id>6250</id><location><x>2902</x><y>5264</y><z>0</z></location></npc>	Growler
+<npc><id>6252</id><location><x>2898</x><y>5270</y><z>0</z></location></npc>	Bree
+<npc><id>6222</id><location><x>2831</x><y>5302</y><z>2</z></location></npc>	Kree'ara
+<npc><id>6223</id><location><x>2826</x><y>5298</y><z>2</z></location></npc>	Wingman Skree
+<npc><id>6225</id><location><x>2826</x><y>5306</y><z>2</z></location></npc>	Flockleader Geerin
+<npc><id>6227</id><location><x>2825</x><y>5302</y><z>2</z></location></npc>	Flight Kilisa
+
+<npc><id>6277</id><location><x>2833</x><y>5321</y><z>2</z></location></npc>	Spiritual Warrior
+<npc><id>6275</id><location><x>2838</x><y>5325</y><z>2</z></location></npc>	Hobgoblin
+<npc><id>6277</id><location><x>2836</x><y>5331</y><z>2</z></location></npc>	Spiritual Warrior
+<npc><id>6275</id><location><x>2842</x><y>5335</y><z>2</z></location></npc>	Hobgoblin
+<npc><id>6277</id><location><x>2842</x><y>5322</y><z>2</z></location></npc>	Spiritual Warrior
+<npc><id>6270</id><location><x>2834</x><y>5335</y><z>2</z></location></npc>	Cyclops
+
+<npc><id>6275</id><location><x>2836</x><y>5349</y><z>2</z></location></npc>	Hobgoblin
+<npc><id>6277</id><location><x>2340</x><y>5355</y><z>2</z></location></npc>	Spiritual Warrior
+<npc><id>6270</id><location><x>2844</x><y>5352</y><z>2</z></location></npc>	Cyclops
+<npc><id>6277</id><location><x>2842</x><y>5357</y><z>2</z></location></npc>	Spiritual Warrior
+<npc><id>6275</id><location><x>2848</x><y>5346</y><z>2</z></location></npc>	Hobgoblin
+<npc><id>6277</id><location><x>2851</x><y>5355</y><z>2</z></location></npc>	Spiritual Warrior
+<npc><id>6275</id><location><x>2856</x><y>5357</y><z>2</z></location></npc>	Hobgoblin
+<npc><id>6277</id><location><x>2857</x><y>5350</y><z>2</z></location></npc>	Spiritual Warrior
+<npc><id>6270</id><location><x>2847</x><y>5353</y><z>2</z></location></npc>	Cyclops
+
+<npc><id>6215</id><location><x>2897</x><y>5358</y><z>2</z></location></npc>	Bloodveld
+
+<npc><id>6215</id><location><x>2886</x><y>5354</y><z>2</z></location></npc>	Bloodveld
+<npc><id>6219</id><location><x>2903</x><y>5350</y><z>2</z></location></npc>	Spiritual Warrior
+
+<npc><id>6219</id><location><x>2907</x><y>5351</y><z>2</z></location></npc>	Spiritual Warrior
+
+<npc><id>6215</id><location><x>2913</x><y>5355</y><z>2</z></location></npc>	Bloodveld
+<npc><id>6219</id><location><x>2918</x><y>5352</y><z>2</z></location></npc>	Spiritual Warrior
+
+<npc><id>6215</id><location><x>2929</x><y>5346</y><z>2</z></location></npc>	Bloodveld
+<npc><id>6219</id><location><x>2918</x><y>5342</y><z>2</z></location></npc>	Spiritual Warrior
+
+<npc><id>6219</id><location><x>2910</x><y>5346</y><z>2</z></location></npc>	Spiritual Warrior
+
+<npc><id>6255</id><location><x>2916</x><y>5273</y><z>2</z></location></npc>	Spiritual Warrior
+<npc><id>6254</id><location><x>2916</x><y>5270</y><z>2</z></location></npc>	Saradomin Priest
+<npc><id>6255</id><location><x>2913</x><y>5267</y><z>2</z></location></npc>	Spiritual Warrior
+<npc><id>6255</id><location><x>2910</x><y>5269</y><z>2</z></location></npc>	Spiritual Warrior
+<npc><id>6254</id><location><x>2912</x><y>5270</y><z>2</z></location></npc>	Saradomin Priest
+<npc><id>6232</id><location><x>2871</x><y>5260</y><z>0</z></location></npc>	Avansie
+<npc><id>6232</id><location><x>2865</x><y>5269</y><z>0</z></location></npc>	Avansie
+<npc><id>6233</id><location><x>2861</x><y>5269</y><z>0</z></location></npc>	Avansie
+<npc><id>6233</id><location><x>2865</x><y>5271</y><z>0</z></location></npc>	Avansie
+
+<npc><id>6218</id><location><x>2877</x><y>5302</y><z>0</z></location></npc>	Gorak
+<npc><id>6218</id><location><x>2887</x><y>5290</y><z>0</z></location></npc>	Gorak
+<npc><id>6269</id><location><x>2883</x><y>5283</y><z>0</z></location></npc>	Ice Cyclops
+<npc><id>6269</id><location><x>2888</x><y>5296</y><z>0</z></location></npc>	Ice Cyclops
+<npc><id>6269</id><location><x>2873</x><y>5299</y><z>0</z></location></npc>	Ice Cyclops
+<npc><id>6269</id><location><x>2860</x><y>5294</y><z>0</z></location></npc>	Ice Cyclops
+<npc><id>6210</id><location><x>2887</x><y>5321</y><z>0</z></location></npc>	Hellhound
+<npc><id>6210</id><location><x>2884</x><y>5327</y><z>0</z></location></npc>	Hellhound
+<npc><id>6210</id><location><x>2868</x><y>5314</y><z>0</z></location></npc>	Hellhound
+<npc><id>6210</id><location><x>2856</x><y>5304</y><z>0</z></location></npc>	Hellhound
+<npc><id>6210</id><location><x>2878</x><y>5292</y><z>0</z></location></npc>	Hellhound
+<npc><id>6210</id><location><x>2889</x><y>5305</y><z>0</z></location></npc>	Hellhound
+<npc><id>6210</id><location><x>2922</x><y>5354</y><z>0</z></location></npc>	Hellhound
+<npc><id>6210</id><location><x>2913</x><y>5348</y><z>0</z></location></npc>	Hellhound
+<npc><id>6210</id><location><x>2906</x><y>5353</y><z>0</z></location></npc>	Hellhound
+<npc><id>6212</id><location><x>2880</x><y>5311</y><z>0</z></location></npc>	Werewolf
+<npc><id>6212</id><location><x>2877</x><y>5327</y><z>0</z></location></npc>	Werewolf
+<npc><id>6212</id><location><x>2893</x><y>5325</y><z>0</z></location></npc>	Werewolf
+<npc><id>6212</id><location><x>2866</x><y>5317</y><z>0</z></location></npc>	Werewolf
+<npc><id>6212</id><location><x>2854</x><y>5310</y><z>0</z></location></npc>	Werewolf
+<npc><id>6212</id><location><x>2879</x><y>5294</y><z>0</z></location></npc>	Werewolf
+<npc><id>6212</id><location><x>2887</x><y>5319</y><z>0</z></location></npc>	Werewolf
+<npc><id>6212</id><location><x>2888</x><y>5349</y><z>0</z></location></npc>	Werewolf
+<npc><id>6212</id><location><x>2886</x><y>5360</y><z>0</z></location></npc>	Werewolf
+<npc><id>6212</id><location><x>2913</x><y>5352</y><z>0</z></location></npc>	Werewolf
+<npc><id>6212</id><location><x>2927</x><y>5348</y><z>0</z></location></npc>	Werewolf
+
+<npc><id>6218</id><location><x>2892</x><y>5361</y><z>0</z></location></npc>	Gorak
+<npc><id>6218</id><location><x>2913</x><y>5361</y><z>0</z></location></npc>	Gorak
+<npc><id>6218</id><location><x>2928</x><y>5342</y><z>0</z></location></npc>	Gorak
+
+<npc><id>6257</id><location><x>2913</x><y>5266</y><z>0</z></location></npc>
+<npc><id>6257</id><location><x>2912</x><y>5268</y><z>0</z></location></npc>
+<npc><id>6256</id><location><x>2916</x><y>5270</y><z>0</z></location></npc>
+<npc><id>6256</id><location><x>2913</x><y>5269</y><z>0</z></location></npc>
+<npc><id>6259</id><location><x>2912</x><y>5269</y><z>0</z></location></npc>
+<npc><id>6257</id><location><x>2914</x><y>5270</y><z>0</z></location></npc>
+<npc><id>6258</id><location><x>2916</x><y>5269</y><z>0</z></location></npc>
+<npc><id>6258</id><location><x>2919</x><y>5273</y><z>0</z></location></npc>
+<npc><id>6259</id><location><x>2917</x><y>5272</y><z>0</z></location></npc>
+<npc><id>6254</id><location><x>2918</x><y>5271</y><z>0</z></location></npc>
+
+<npc><id>6259</id><location><x>2919</x><y>5278</y><z>1</z></location></npc>
+<npc><id>6258</id><location><x>2920</x><y>5278</y><z>1</z></location></npc>
+<npc><id>6256</id><location><x>2920</x><y>5281</y><z>1</z></location></npc>
+<npc><id>6255</id><location><x>2920</x><y>5284</y><z>1</z></location></npc>
+<npc><id>6256</id><location><x>2920</x><y>5286</y><z>1</z></location></npc>
+<npc><id>6257</id><location><x>2918</x><y>5288</y><z>1</z></location></npc>
+<npc><id>6257</id><location><x>2923</x><y>5284</y><z>1</z></location></npc>
+<npc><id>6254</id><location><x>2922</x><y>5289</y><z>1</z></location></npc>
+<npc><id>6254</id><location><x>2920</x><y>5290</y><z>1</z></location></npc>
+<npc><id>6258</id><location><x>2921</x><y>5292</y><z>1</z></location></npc>
+<npc><id>6259</id><location><x>2919</x><y>5294</y><z>1</z></location></npc>
+<npc><id>6257</id><location><x>2918</x><y>5290</y><z>1</z></location></npc>
+<npc><id>6256</id><location><x>2920</x><y>5290</y><z>1</z></location></npc>
+<npc><id>6255</id><location><x>2922</x><y>5286</y><z>1</z></location></npc>
+
+
+<npc><id>6229</id><location><x>2870</x><y>5266</y><z>0</z></location></npc>
+<npc><id>6230</id><location><x>2869</x><y>5264</y><z>0</z></location></npc>
+<npc><id>6231</id><location><x>2862</x><y>5258</y><z>0</z></location></npc>
+<npc><id>6232</id><location><x>2864</x><y>5261</y><z>0</z></location></npc>
+<npc><id>6233</id><location><x>2859</x><y>5263</y><z>0</z></location></npc>
+
+
+<npc><id>6234</id><location><x>2855</x><y>5265</y><z>2</z></location></npc>
+<npc><id>6235</id><location><x>2854</x><y>5271</y><z>2</z></location></npc>
+<npc><id>6236</id><location><x>2854</x><y>5269</y><z>2</z></location></npc>
+<npc><id>6237</id><location><x>2846</x><y>5264</y><z>2</z></location></npc>
+<npc><id>6238</id><location><x>2851</x><y>5270</y><z>2</z></location></npc>
+<npc><id>6239</id><location><x>2848</x><y>5270</y><z>2</z></location></npc>
+<npc><id>6240</id><location><x>2851</x><y>5275</y><z>2</z></location></npc>
+<npc><id>6241</id><location><x>2849</x><y>5274</y><z>2</z></location></npc>
+<npc><id>6243</id><location><x>2847</x><y>5278</y><z>2</z></location></npc>
+<npc><id>6235</id><location><x>2844</x><y>5279</y><z>2</z></location></npc>
+<npc><id>6240</id><location><x>2840</x><y>5278</y><z>2</z></location></npc>
+<npc><id>6243</id><location><x>2842</x><y>5276</y><z>2</z></location></npc>
+<npc><id>6233</id><location><x>2838</x><y>5273</y><z>2</z></location></npc>
+<npc><id>6231</id><location><x>2838</x><y>5265</y><z>2</z></location></npc>
+<npc><id>6231</id><location><x>2842</x><y>5265</y><z>2</z></location></npc>
+<npc><id>6230</id><location><x>2839</x><y>5267</y><z>2</z></location></npc>
+<npc><id>6230</id><location><x>2846</x><y>5271</y><z>2</z></location></npc>
+<npc><id>6230</id><location><x>2846</x><y>5284</y><z>2</z></location></npc>
+<npc><id>6230</id><location><x>2840</x><y>5286</y><z>2</z></location></npc>
+<npc><id>6230</id><location><x>2834</x><y>5284</y><z>2</z></location></npc>
+<npc><id>6238</id><location><x>2837</x><y>5290</y><z>2</z></location></npc>
+<npc><id>6236</id><location><x>2842</x><y>5292</y><z>2</z></location></npc>
+<npc><id>6246</id><location><x>2842</x><y>5289</y><z>2</z></location></npc>
+<npc><id>6244</id><location><x>2844</x><y>5287</y><z>2</z></location></npc>
+<npc><id>6240</id><location><x>2830</x><y>5285</y><z>2</z></location></npc>
+<npc><id>6238</id><location><x>2831</x><y>5292</y><z>2</z></location></npc>
+<npc><id>6229</id><location><x>2836</x><y>5292</y><z>2</z></location></npc>
+<npc><id>6229</id><location><x>2841</x><y>5281</y><z>2</z></location></npc>
+<npc><id>6229</id><location><x>2839</x><y>5271</y><z>2</z></location></npc>
+<npc><id>6229</id><location><x>2842</x><y>5264</y><z>2</z></location></npc>
+<npc><id>6235</id><location><x>2864</x><y>5259</y><z>2</z></location></npc>
+<npc><id>6240</id><location><x>2873</x><y>5265</y><z>2</z></location></npc>
+<npc><id>6237</id><location><x>2873</x><y>5282</y><z>2</z></location></npc>
+<npc><id>6246</id><location><x>2876</x><y>5282</y><z>2</z></location></npc>
+<npc><id>6236</id><location><x>2875</x><y>5285</y><z>2</z></location></npc>
+<npc><id>6233</id><location><x>2869</x><y>5285</y><z>2</z></location></npc>
+<npc><id>6270</id><location><x>2875</x><y>5289</y><z>2</z></location></npc>
+<npc><id>6269</id><location><x>2871</x><y>5288</y><z>2</z></location></npc>
+
+<npc><id>6268</id><location><x>2866</x><y>5295</y><z>2</z></location></npc>
+<npc><id>6268</id><location><x>2865</x><y>5291</y><z>2</z></location></npc>
+<npc><id>6237</id><location><x>2869</x><y>5290</y><z>2</z></location></npc>
+<npc><id>6218</id><location><x>2865</x><y>5290</y><z>2</z></location></npc>
+<npc><id>6216</id><location><x>2862</x><y>5293</y><z>2</z></location></npc>
+<npc><id>6214</id><location><x>2864</x><y>5294</y><z>2</z></location></npc>
+<npc><id>6211</id><location><x>2863</x><y>5296</y><z>2</z></location></npc>
+<npc><id>6212</id><location><x>2862</x><y>5295</y><z>2</z></location></npc>
+<npc><id>6258</id><location><x>2864</x><y>5292</y><z>2</z></location></npc>
+<npc><id>6259</id><location><x>2861</x><y>5290</y><z>2</z></location></npc>
+<npc><id>6241</id><location><x>2860</x><y>5297</y><z>2</z></location></npc>
+<npc><id>6243</id><location><x>2863</x><y>5300</y><z>2</z></location></npc>
+<npc><id>6259</id><location><x>2859</x><y>5304</y><z>2</z></location></npc>
+<npc><id>6214</id><location><x>2861</x><y>5304</y><z>2</z></location></npc>
+<npc><id>6217</id><location><x>2864</x><y>5307</y><z>2</z></location></npc>
+<npc><id>6211</id><location><x>2866</x><y>5311</y><z>2</z></location></npc>
+<npc><id>6211</id><location><x>2864</x><y>5316</y><z>2</z></location></npc>
+<npc><id>6211</id><location><x>2867</x><y>5319</y><z>2</z></location></npc>
+<npc><id>6215</id><location><x>2871</x><y>5320</y><z>2</z></location></npc>
+<npc><id>6215</id><location><x>2873</x><y>5315</y><z>2</z></location></npc>
+<npc><id>6216</id><location><x>2878</x><y>5314</y><z>2</z></location></npc>
+<npc><id>6216</id><location><x>2879</x><y>5313</y><z>2</z></location></npc>
+<npc><id>6254</id><location><x>2882</x><y>5310</y><z>2</z></location></npc>
+<npc><id>6231</id><location><x>2888</x><y>5309</y><z>2</z></location></npc>
+<npc><id>6258</id><location><x>2886</x><y>5312</y><z>2</z></location></npc>
+<npc><id>6259</id><location><x>2884</x><y>5310</y><z>2</z></location></npc>
+<npc><id>6274</id><location><x>2877</x><y>5300</y><z>2</z></location></npc>
+<npc><id>6283</id><location><x>2884</x><y>5307</y><z>2</z></location></npc>
+<npc><id>6282</id><location><x>2879</x><y>5306</y><z>2</z></location></npc>
+<npc><id>6275</id><location><x>2872</x><y>5306</y><z>2</z></location></npc>
+<npc><id>6210</id><location><x>2867</x><y>5306</y><z>2</z></location></npc>
+<npc><id>6257</id><location><x>2857</x><y>5314</y><z>2</z></location></npc>
+<npc><id>6221</id><location><x>2860</x><y>5310</y><z>2</z></location></npc>
+<npc><id>6221</id><location><x>2857</x><y>5312</y><z>2</z></location></npc>
+<npc><id>6273</id><location><x>2862</x><y>5315</y><z>2</z></location></npc>
+<npc><id>6282</id><location><x>2860</x><y>5312</y><z>2</z></location></npc>
+<npc><id>6218</id><location><x>2860</x><y>5318</y><z>2</z></location></npc>
+<npc><id>6214</id><location><x>2859</x><y>5325</y><z>2</z></location></npc>
+<npc><id>6259</id><location><x>2860</x><y>5326</y><z>2</z></location></npc>
+<npc><id>6258</id><location><x>2857</x><y>5328</y><z>2</z></location></npc>
+<npc><id>6274</id><location><x>2856</x><y>5326</y><z>2</z></location></npc>
+<npc><id>6269</id><location><x>2853</x><y>5327</y><z>2</z></location></npc>
+<npc><id>6255</id><location><x>2853</x><y>5323</y><z>2</z></location></npc>
+<npc><id>6259</id><location><x>2858</x><y>5332</y><z>2</z></location></npc>
+<npc><id>6246</id><location><x>2863</x><y>5333</y><z>2</z></location></npc>
+<npc><id>6243</id><location><x>2857</x><y>5326</y><z>2</z></location></npc>
+<npc><id>6240</id><location><x>2852</x><y>5317</y><z>2</z></location></npc>
+<npc><id>6231</id><location><x>2854</x><y>5314</y><z>2</z></location></npc>
+<npc><id>6275</id><location><x>2829</x><y>5317</y><z>2</z></location></npc>
+<npc><id>6279</id><location><x>2833</x><y>5324</y><z>2</z></location></npc>
+<npc><id>6279</id><location><x>2843</x><y>5319</y><z>2</z></location></npc>
+<npc><id>6280</id><location><x>2843</x><y>5329</y><z>2</z></location></npc>
+<npc><id>6280</id><location><x>2843</x><y>5336</y><z>2</z></location></npc>
+<npc><id>6281</id><location><x>2845</x><y>5337</y><z>2</z></location></npc>
+<npc><id>6281</id><location><x>2835</x><y>5332</y><z>2</z></location></npc>
+<npc><id>6283</id><location><x>2830</x><y>5327</y><z>2</z></location></npc>
+<npc><id>6283</id><location><x>2839</x><y>5328</y><z>2</z></location></npc>
+<npc><id>6278</id><location><x>2843</x><y>5329</y><z>2</z></location></npc>
+<npc><id>6269</id><location><x>2842</x><y>5320</y><z>2</z></location></npc>
+<npc><id>6270</id><location><x>2841</x><y>5324</y><z>2</z></location></npc>
+<npc><id>6270</id><location><x>2834</x><y>5337</y><z>2</z></location></npc>
+<npc><id>6275</id><location><x>2828</x><y>5337</y><z>2</z></location></npc>
+<npc><id>6271</id><location><x>2828</x><y>5330</y><z>2</z></location></npc>
+<npc><id>6272</id><location><x>2838</x><y>5326</y><z>2</z></location></npc>
+<npc><id>6274</id><location><x>2847</x><y>5336</y><z>2</z></location></npc>
+<npc><id>6273</id><location><x>2844</x><y>5339</y><z>2</z></location></npc>
+<npc><id>6270</id><location><x>2845</x><y>5327</y><z>2</z></location></npc>
+<npc><id>6268</id><location><x>2843</x><y>5331</y><z>2</z></location></npc>
+<npc><id>6274</id><location><x>2843</x><y>5343</y><z>2</z></location></npc>
+<npc><id>6275</id><location><x>2838</x><y>5346</y><z>2</z></location></npc>
+<npc><id>6275</id><location><x>2835</x><y>5353</y><z>2</z></location></npc>
+<npc><id>6276</id><location><x>2835</x><y>5355</y><z>2</z></location></npc>
+<npc><id>6277</id><location><x>2837</x><y>5357</y><z>2</z></location></npc>
+<npc><id>6278</id><location><x>2840</x><y>5359</y><z>2</z></location></npc>
+<npc><id>6278</id><location><x>2842</x><y>5361</y><z>2</z></location></npc>
+<npc><id>6278</id><location><x>2850</x><y>5351</y><z>2</z></location></npc>
+<npc><id>6278</id><location><x>2847</x><y>5348</y><z>2</z></location></npc>
+<npc><id>6283</id><location><x>2855</x><y>5355</y><z>2</z></location></npc>
+<npc><id>6268</id><location><x>2857</x><y>5360</y><z>2</z></location></npc>
+<npc><id>6268</id><location><x>2857</x><y>5354</y><z>2</z></location></npc>
+<npc><id>6276</id><location><x>2857</x><y>5350</y><z>2</z></location></npc>
+<npc><id>6277</id><location><x>2850</x><y>5355</y><z>2</z></location></npc>
+<npc><id>6275</id><location><x>2835</x><y>5349</y><z>2</z></location></npc>
+<npc><id>6271</id><location><x>2834</x><y>5356</y><z>2</z></location></npc>
+<npc><id>6272</id><location><x>2838</x><y>5354</y><z>2</z></location></npc>
+<npc><id>6270</id><location><x>2841</x><y>5360</y><z>2</z></location></npc>
+<npc><id>6274</id><location><x>2860</x><y>5354</y><z>2</z></location></npc>
+<npc><id>6273</id><location><x>2858</x><y>5352</y><z>2</z></location></npc>
+<npc><id>6269</id><location><x>2855</x><y>5349</y><z>2</z></location></npc>
+<npc><id>6283</id><location><x>2843</x><y>5342</y><z>2</z></location></npc>
+<npc><id>6273</id><location><x>2837</x><y>5345</y><z>2</z></location></npc>
+<npc><id>6269</id><location><x>2835</x><y>5349</y><z>2</z></location></npc>
+<npc><id>6268</id><location><x>2851</x><y>5357</y><z>2</z></location></npc>
+<npc><id>6275</id><location><x>2847</x><y>5342</y><z>2</z></location></npc>
+<npc><id>6270</id><location><x>2849</x><y>5344</y><z>2</z></location></npc>
+<npc><id>6272</id><location><x>2840</x><y>5332</y><z>2</z></location></npc>
+<npc><id>6283</id><location><x>2839</x><y>5323</y><z>2</z></location></npc>
+<npc><id>6281</id><location><x>2835</x><y>5320</y><z>2</z></location></npc>
+<npc><id>6280</id><location><x>2832</x><y>5317</y><z>2</z></location></npc>
+<npc><id>6270</id><location><x>2838</x><y>5336</y><z>2</z></location></npc>
+<npc><id>6211</id><location><x>2924</x><y>5343</y><z>2</z></location></npc>
+<npc><id>6211</id><location><x>2921</x><y>5345</y><z>2</z></location></npc>
+<npc><id>6211</id><location><x>2913</x><y>5350</y><z>2</z></location></npc>
+<npc><id>6218</id><location><x>2912</x><y>5352</y><z>2</z></location></npc>
+<npc><id>6221</id><location><x>2920</x><y>5352</y><z>2</z></location></npc>
+<npc><id>6221</id><location><x>2919</x><y>5360</y><z>2</z></location></npc>
+<npc><id>6217</id><location><x>2924</x><y>5355</y><z>2</z></location></npc>
+<npc><id>6217</id><location><x>2924</x><y>5350</y><z>2</z></location></npc>
+<npc><id>6220</id><location><x>2921</x><y>5348</y><z>2</z></location></npc>
+<npc><id>6220</id><location><x>2922</x><y>5353</y><z>2</z></location></npc>
+<npc><id>6220</id><location><x>2915</x><y>5351</y><z>2</z></location></npc>
+<npc><id>6220</id><location><x>2910</x><y>5349</y><z>2</z></location></npc>
+<npc><id>6216</id><location><x>2904</x><y>5355</y><z>2</z></location></npc>
+<npc><id>6216</id><location><x>2906</x><y>5354</y><z>2</z></location></npc>
+<npc><id>6216</id><location><x>2906</x><y>5347</y><z>2</z></location></npc>
+<npc><id>6213</id><location><x>2908</x><y>5348</y><z>2</z></location></npc>
+<npc><id>6212</id><location><x>2907</x><y>5353</y><z>2</z></location></npc>
+<npc><id>6214</id><location><x>2904</x><y>5351</y><z>2</z></location></npc>
+<npc><id>6214</id><location><x>2914</x><y>5342</y><z>2</z></location></npc>
+<npc><id>6221</id><location><x>2904</x><y>5364</y><z>2</z></location></npc>
+<npc><id>6221</id><location><x>2902</x><y>5363</y><z>2</z></location></npc>
+<npc><id>6214</id><location><x>2888</x><y>5365</y><z>2</z></location></npc>
+<npc><id>6218</id><location><x>2888</x><y>5357</y><z>2</z></location></npc>
+<npc><id>6212</id><location><x>2887</x><y>5355</y><z>2</z></location></npc>
+<npc><id>6217</id><location><x>2887</x><y>5352</y><z>2</z></location></npc>
+<npc><id>6219</id><location><x>2887</x><y>5349</y><z>2</z></location></npc>
+<npc><id>6220</id><location><x>2884</x><y>5354</y><z>2</z></location></npc>
+<npc><id>6211</id><location><x>2893</x><y>5352</y><z>2</z></location></npc>
+<npc><id>6214</id><location><x>2887</x><y>5327</y><z>2</z></location></npc>
+<npc><id>6212</id><location><x>2884</x><y>5325</y><z>2</z></location></npc>
+<npc><id>6213</id><location><x>2883</x><y>5320</y><z>2</z></location></npc>
+<npc><id>6221</id><location><x>2879</x><y>5322</y><z>2</z></location></npc>
+<npc><id>6257</id><location><x>2881</x><y>5322</y><z>2</z></location></npc>
+<npc><id>6246</id><location><x>2886</x><y>5323</y><z>2</z></location></npc>
+<npc><id>6244</id><location><x>2891</x><y>5324</y><z>2</z></location></npc>
+<npc><id>6211</id><location><x>2895</x><y>5317</y><z>2</z></location></npc>
+<npc><id>6275</id><location><x>2896</x><y>5311</y><z>2</z></location></npc>
+<npc><id>6259</id><location><x>2893</x><y>5310</y><z>2</z></location></npc>
+<npc><id>6278</id><location><x>2894</x><y>5313</y><z>2</z></location></npc>
+<npc><id>6259</id><location><x>2899</x><y>5304</y><z>2</z></location></npc>
+<npc><id>6259</id><location><x>2909</x><y>5299</y><z>2</z></location></npc>
+<npc><id>6258</id><location><x>2906</x><y>5300</y><z>2</z></location></npc>
+<npc><id>6257</id><location><x>2906</x><y>5302</y><z>2</z></location></npc>
+<npc><id>6256</id><location><x>2902</x><y>5300</y><z>2</z></location></npc>
+<npc><id>6254</id><location><x>2902</x><y>5304</y><z>2</z></location></npc>
+<npc><id>6246</id><location><x>2896</x><y>5297</y><z>2</z></location></npc>
+<npc><id>6231</id><location><x>2894</x><y>5299</y><z>2</z></location></npc>
+<npc><id>6276</id><location><x>2892</x><y>5302</y><z>2</z></location></npc>
+<npc><id>6211</id><location><x>2905</x><y>5290</y><z>2</z></location></npc>
+<npc><id>6212</id><location><x>2904</x><y>5292</y><z>2</z></location></npc>
+<npc><id>6213</id><location><x>2905</x><y>5291</y><z>2</z></location></npc>
+<npc><id>6236</id><location><x>2898</x><y>5294</y><z>2</z></location></npc>
+<npc><id>6259</id><location><x>2900</x><y>5284</y><z>2</z></location></npc>
+<npc><id>6270</id><location><x>2897</x><y>5287</y><z>2</z></location></npc>
+<npc><id>6268</id><location><x>2890</x><y>5283</y><z>2</z></location></npc>
+<npc><id>6230</id><location><x>2875</x><y>5286</y><z>2</z></location></npc>
+<npc><id>6230</id><location><x>2874</x><y>5288</y><z>2</z></location></npc>
+<npc><id>6220</id><location><x>2867</x><y>5288</y><z>2</z></location></npc>
+<npc><id>6220</id><location><x>2870</x><y>5290</y><z>2</z></location></npc>
+<npc><id>6276</id><location><x>2875</x><y>5292</y><z>2</z></location></npc>
+<npc><id>6217</id><location><x>2880</x><y>5304</y><z>2</z></location></npc>
+<npc><id>6282</id><location><x>2886</x><y>5304</y><z>2</z></location></npc>
+<npc><id>6219</id><location><x>2891</x><y>5320</y><z>2</z></location></npc>
+<npc><id>6272</id><location><x>2888</x><y>5322</y><z>2</z></location></npc>
+<npc><id>6231</id><location><x>2883</x><y>5322</y><z>2</z></location></npc>
+<npc><id>6217</id><location><x>2880</x><y>5324</y><z>2</z></location></npc>
+<npc><id>6217</id><location><x>2879</x><y>5319</y><z>2</z></location></npc>
+<npc><id>6215</id><location><x>2885</x><y>5314</y><z>2</z></location></npc>
+<npc><id>6254</id><location><x>2882</x><y>5299</y><z>2</z></location></npc>
+<npc><id>6254</id><location><x>2882</x><y>5283</y><z>2</z></location></npc>
+<npc><id>6275</id><location><x>2880</x><y>5287</y><z>2</z></location></npc>
+<npc><id>6246</id><location><x>2882</x><y>5304</y><z>2</z></location></npc>
+<npc><id>115</id><location><x>2507</x><y>3118</y><z>0</z></location><walkType>RANGE</walkType><minimumCoords><x>2602</x><y>3096</y><z>0</z></minimumCoords><maximumCoords><x>2606</x><y>3099</y><z>0</z></maximumCoords></npc>
+    <npc>
+        <id>115</id>
+        <location>
+            <x>2505</x>
+            <y>3116</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2602</x>
+            <y>3096</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2606</x>
+            <y>3099</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>115</id>
+        <location>
+            <x>2505</x>
+            <y>3116</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2602</x>
+            <y>3096</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2606</x>
+            <y>3099</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>115</id>
+        <location>
+            <x>2500</x>
+            <y>3111</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2602</x>
+            <y>3096</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2606</x>
+            <y>3099</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>115</id>
+        <location>
+            <x>2505</x>
+            <y>3112</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2602</x>
+            <y>3096</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2606</x>
+            <y>3099</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>115</id>
+        <location>
+            <x>2508</x>
+            <y>3105</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2602</x>
+            <y>3096</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2606</x>
+            <y>3099</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>115</id>
+        <location>
+            <x>2507</x>
+            <y>3098</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2602</x>
+            <y>3096</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2606</x>
+            <y>3099</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>115</id>
+        <location>
+            <x>2503</x>
+            <y>3094</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2602</x>
+            <y>3096</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2606</x>
+            <y>3099</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>115</id>
+        <location>
+            <x>2503</x>
+            <y>3097</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2602</x>
+            <y>3096</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2606</x>
+            <y>3099</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>115</id>
+        <location>
+            <x>2500</x>
+            <y>3101</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2602</x>
+            <y>3096</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2606</x>
+            <y>3099</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>115</id>
+        <location>
+            <x>3503</x>
+            <y>3097</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2602</x>
+            <y>3096</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2606</x>
+            <y>3099</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>115</id>
+        <location>
+            <x>2499</x>
+            <y>3095</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2602</x>
+            <y>3096</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2606</x>
+            <y>3099</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>115</id>
+        <location>
+            <x>2500</x>
+            <y>3091</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2602</x>
+            <y>3096</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2606</x>
+            <y>3099</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>115</id>
+        <location>
+            <x>2497</x>
+            <y>3091</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2602</x>
+            <y>3096</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2606</x>
+            <y>3099</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>115</id>
+        <location>
+            <x>2495</x>
+            <y>3089</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2602</x>
+            <y>3096</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2606</x>
+            <y>3099</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>115</id>
+        <location>
+            <x>2497</x>
+            <y>3086</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2602</x>
+            <y>3096</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2606</x>
+            <y>3099</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>115</id>
+        <location>
+            <x>2497</x>
+            <y>3083</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2602</x>
+            <y>3096</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2606</x>
+            <y>3099</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>115</id>
+        <location>
+            <x>2539</x>
+            <y>3091</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2602</x>
+            <y>3096</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2606</x>
+            <y>3099</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>8275</id>
+        <location>
+            <x>3086</x>
+            <y>3496</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>3084</x>
+            <y>3487</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3088</x>
+            <y>3500</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2697</x>
+            <y>3716</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2694</x>
+            <y>3713</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2693</x>
+            <y>3717</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2698</x>
+            <y>3716</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2700</x>
+            <y>3720</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2703</x>
+            <y>3715</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2707</x>
+            <y>3716</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2709</x>
+            <y>3721</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2713</x>
+            <y>3720</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2717</x>
+            <y>3721</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2720</x>
+            <y>3723</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2721</x>
+            <y>3727</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2716</x>
+            <y>3730</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2716</x>
+            <y>3730</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2711</x>
+            <y>3727</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2708</x>
+            <y>3721</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2701</x>
+            <y>3716</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2701</x>
+            <y>3719</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2698</x>
+            <y>3716</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2700</x>
+            <y>3730</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2701</x>
+            <y>3727</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2700</x>
+            <y>3720</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1267</id>
+        <location>
+            <x>2694</x>
+            <y>3724</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1</id>
+        <location>
+            <x>2609</x>
+            <y>3101</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>2608</x>
+            <y>3099</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2612</x>
+            <y>3103</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+       <npc>
+        <id>1</id>
+        <location>
+            <x>3222</x>
+            <y>3222</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3218</x>
+            <y>3221</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3226</x>
+            <y>3225</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+    <id>6</id>
+    <location>
+      <x>3230</x>
+      <y>3239</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+  <npc>
+    <id>5</id>
+    <location>
+      <x>3235</x>
+      <y>3201</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3234</x>
+      <y>3236</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3199</x>
+      <y>3102</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+  <npc>
+    <id>2</id>
+    <location>
+      <x>3238</x>
+      <y>3223</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+  <npc>
+    <id>2</id>
+    <location>
+      <x>3231</x>
+      <y>3237</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+  <npc>
+    <id>4</id>
+    <location>
+      <x>3238</x>
+      <y>3205</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3237</x>
+      <y>3239</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3204</x>
+      <y>3206</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+  <npc>
+    <id>2244</id>
+    <location>
+      <x>3232</x>
+      <y>3233</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3233</x>
+      <y>3233</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3230</x>
+      <y>3231</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+    <npc>
+    <id>456</id>
+    <location>
+      <x>3243</x>
+      <y>3208</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3244</x>
+      <y>3212</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3243</x>
+      <y>3207</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+  <npc>
+    <id>520</id>
+    <location>
+      <x>3215</x>
+      <y>3243</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3212</x>
+      <y>3242</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3217</x>
+      <y>3243</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+  <npc>
+    <id>521</id>
+    <location>
+      <x>3214</x>
+      <y>3242</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3212</x>
+      <y>3242</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3217</x>
+      <y>3243</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+    <id>520</id>
+    <location>
+      <x>3217</x>
+      <y>3415</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3216</x>
+      <y>3414</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3218</x>
+      <y>3416</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+  <npc>
+<id>521</id>
+    <location>
+      <x>3215</x>
+      <y>3414</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3214</x>
+      <y>3413</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3216</x>
+      <y>3415</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>547</id>
+    <location>
+      <x>3216</x>
+      <y>3434</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3215</x>
+      <y>3433</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3217</x>
+      <y>3435</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>5925</id>
+    <location>
+      <x>3220</x>
+      <y>3432</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3219</x>
+      <y>3431</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3221</x>
+      <y>3433</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>549</id>
+    <location>
+      <x>3230</x>
+      <y>3439</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3229</x>
+      <y>3438</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3231</x>
+      <y>3440</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>550</id>
+    <location>
+      <x>3232</x>
+      <y>3424</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3231</x>
+      <y>3423</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3233</x>
+      <y>3425</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>639</id>
+    <location>
+      <x>3213</x>
+      <y>3423</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3212</x>
+      <y>3422</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3214</x>
+      <y>3427</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>548</id>
+    <location>
+      <x>3205</x>
+      <y>3416</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3204</x>
+      <y>3415</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3206</x>
+      <y>3417</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1360</id>
+    <location>
+      <x>3191</x>
+      <y>3435</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1360</id>
+    <location>
+      <x>3191</x>
+      <y>3437</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1360</id>
+    <location>
+      <x>3191</x>
+      <y>3439</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1360</id>
+    <location>
+      <x>3191</x>
+      <y>3441</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1360</id>
+    <location>
+      <x>3191</x>
+      <y>3443</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1360</id>
+    <location>
+      <x>3180</x>
+      <y>3436</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1360</id>
+    <location>
+      <x>3180</x>
+      <y>3438</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+
+  <npc>
+        <id>8275</id>
+        <location>
+            <x>3157</x>
+            <y>3489</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+             <x>3154</x>
+            <y>3489</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3160</x>
+            <y>3491</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+<npc>
+<id>1360</id>
+    <location>
+      <x>3180</x>
+      <y>3440</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1360</id>
+    <location>
+      <x>3180</x>
+      <y>3442</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1360</id>
+    <location>
+      <x>3180</x>
+      <y>3444</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>5920</id>
+    <location>
+      <x>3175</x>
+      <y>3422</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3174</x>
+      <y>3421</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3176</x>
+      <y>3423</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>5920</id>
+    <location>
+      <x>3177</x>
+      <y>3428</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3176</x>
+      <y>3427</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3178</x>
+      <y>3429</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>5920</id>
+    <location>
+      <x>3173</x>
+      <y>3428</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3172</x>
+      <y>3427</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3174</x>
+      <y>3429</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>5920</id>
+    <location>
+      <x>3210</x>
+      <y>3382</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3209</x>
+      <y>3381</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3211</x>
+      <y>3383</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>5920</id>
+    <location>
+      <x>3212</x>
+      <y>3380</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3211</x>
+      <y>3379</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3213</x>
+      <y>3381</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>5920</id>
+    <location>
+      <x>3184</x>
+      <y>3401</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3183</x>
+      <y>3400</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3185</x>
+      <y>3402</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>5920</id>
+    <location>
+      <x>3278</x>
+      <y>3422</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3277</x>
+      <y>3421</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3279</x>
+      <y>3423</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>5920</id>
+    <location>
+      <x>3273</x>
+      <y>3428</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3272</x>
+      <y>3427</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3274</x>
+      <y>3429</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>278</id>
+    <location>
+      <x>3230</x>
+      <y>3401</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3229</x>
+      <y>3400</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3231</x>
+      <y>3402</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>282</id>
+    <location>
+      <x>3231</x>
+      <y>3397</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>882</id>
+    <location>
+      <x>3203</x>
+      <y>3423</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3202</x>
+      <y>3422</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3204</x>
+      <y>3424</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>520</id>
+    <location>
+      <x>3206</x>
+      <y>3398</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3205</x>
+      <y>3397</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3207</x>
+      <y>3399</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>521</id>
+    <location>
+      <x>3205</x>
+      <y>3397</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3205</x>
+      <y>3396</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3207</x>
+      <y>3398</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>747</id>
+    <location>
+      <x>3068</x>
+      <y>3516</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>638</id>
+    <location>
+      <x>3196</x>
+      <y>3404</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3195</x>
+      <y>3403</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3197</x>
+      <y>3405</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>2</id>
+    <location>
+      <x>3193</x>
+      <y>3400</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3192</x>
+      <y>3399</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3194</x>
+      <y>3401</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1</id>
+    <location>
+      <x>3235</x>
+      <y>3395</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3234</x>
+      <y>3394</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3236</x>
+      <y>3396</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>4</id>
+    <location>
+      <x>3218</x>
+      <y>3395</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3217</x>
+      <y>3394</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3219</x>
+      <y>3396</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>756</id>
+    <location>
+      <x>3223</x>
+      <y>3398</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3222</x>
+      <y>3397</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3224</x>
+      <y>3399</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>645</id>
+    <location>
+      <x>3219</x>
+      <y>3400</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3218</x>
+      <y>3399</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3220</x>
+      <y>3401</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>731</id>
+    <location>
+      <x>3226</x>
+      <y>3397</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3226</x>
+      <y>3397</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3226</x>
+      <y>3401</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>5920</id>
+    <location>
+      <x>3240</x>
+      <y>3500</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>5920</id>
+    <location>
+      <x>3245</x>
+      <y>3500</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3244</x>
+      <y>3499</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3246</x>
+      <y>3501</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc><npc>
+<id>5920</id>
+    <location>
+      <x>3220</x>
+      <y>3465</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3219</x>
+      <y>3464</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3221</x>
+      <y>3466</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>5920</id>
+    <location>
+      <x>3214</x>
+      <y>3463</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3213</x>
+      <y>3462</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3215</x>
+      <y>3464</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>5920</id>
+    <location>
+      <x>3210</x>
+      <y>3462</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3209</x>
+      <y>3461</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3211</x>
+      <y>3463</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>5920</id>
+    <location>
+      <x>3205</x>
+      <y>3463</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3204</x>
+      <y>3462</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3206</x>
+      <y>3464</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>4661</id>
+    <location>
+      <x>3230</x>
+      <y>3372</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3229</x>
+      <y>3371</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3231</x>
+      <y>3373</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>4661</id>
+    <location>
+      <x>3229</x>
+      <y>3375</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3228</x>
+      <y>3374</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3230</x>
+      <y>3376</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>4661</id>
+    <location>
+      <x>3230</x>
+      <y>3368</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3229</x>
+      <y>3367</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3231</x>
+      <y>3369</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>4661</id>
+    <location>
+      <x>3225</x>
+      <y>3367</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3224</x>
+      <y>3366</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3226</x>
+      <y>3368</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>4661</id>
+    <location>
+      <x>3220</x>
+      <y>3367</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3219</x>
+      <y>3366</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3221</x>
+      <y>3368</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>4659</id>
+    <location>
+      <x>3221</x>
+      <y>3371</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3220</x>
+      <y>3370</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3222</x>
+      <y>3372</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>4659</id>
+    <location>
+      <x>3226</x>
+      <y>3374</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3225</x>
+      <y>3373</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3227</x>
+      <y>3375</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>4659</id>
+    <location>
+      <x>3233</x>
+      <y>3372</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3232</x>
+      <y>3371</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3234</x>
+      <y>3373</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>4659</id>
+    <location>
+      <x>3230</x>
+      <y>3362</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3229</x>
+      <y>3361</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3231</x>
+      <y>3363</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>5836</id>
+    <location>
+      <x>3202</x>
+      <y>3435</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3201</x>
+      <y>3434</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3203</x>
+      <y>3436</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>198</id>
+    <location>
+      <x>3189</x>
+      <y>3360</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3188</x>
+      <y>3359</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3190</x>
+      <y>3361</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>2792</id>
+    <location>
+      <x>3234</x>
+      <y>3403</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3233</x>
+      <y>3402</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3235</x>
+      <y>3404</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>2792</id>
+    <location>
+      <x>3228</x>
+      <y>3410</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3227</x>
+      <y>3409</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3229</x>
+      <y>3411</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1</id>
+    <location>
+      <x>3238</x>
+      <y>3405</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3237</x>
+      <y>3404</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3239</x>
+      <y>3406</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>2</id>
+    <location>
+      <x>3242</x>
+      <y>3409</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3241</x>
+      <y>3408</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3243</x>
+      <y>3410</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1</id>
+    <location>
+      <x>3288</x>
+      <y>3406</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3287</x>
+      <y>3405</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3289</x>
+      <y>3407</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>2697</id>
+    <location>
+      <x>3252</x>
+      <y>3388</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3251</x>
+      <y>3387</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3253</x>
+      <y>3389</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>595</id>
+    <location>
+      <x>3271</x>
+      <y>3411</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>5941</id>
+    <location>
+      <x>3295</x>
+      <y>3427</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>4905</id>
+    <location>
+      <x>3187</x>
+      <y>3423</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3186</x>
+      <y>3422</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3188</x>
+      <y>3424</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>4239</id>
+    <location>
+      <x>3285</x>
+      <y>3489</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1921</id>
+    <location>
+      <x>3277</x>
+      <y>3487</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3275</x>
+      <y>3486</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3278</x>
+      <y>3488</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>5</id>
+    <location>
+      <x>3280</x>
+      <y>3494</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3279</x>
+      <y>3493</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3281</x>
+      <y>3495</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+  
+<npc>
+<id>5</id>
+    <location>
+      <x>3280</x>
+      <y>3496</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3279</x>
+      <y>3495</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3281</x>
+      <y>3497</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>7135</id>
+    <location>
+      <x>3253</x>
+      <y>5483</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3250</x>
+      <y>5480</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3254</x>
+      <y>5490</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>7135</id>
+    <location>
+      <x>3249</x>
+      <y>5485</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3244</x>
+      <y>5480</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3254</x>
+      <y>5490</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>7135</id>
+    <location>
+      <x>3251</x>
+      <y>5490</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3247</x>
+      <y>5485</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3255</x>
+      <y>5495</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>7135</id>
+    <location>
+      <x>3253</x>
+      <y>5483</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3250</x>
+      <y>5480</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3254</x>
+      <y>5490</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>7135</id>
+    <location>
+      <x>3249</x>
+      <y>5485</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3244</x>
+      <y>5480</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3254</x>
+      <y>5490</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>7135</id>
+    <location>
+      <x>3251</x>
+      <y>5490</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3247</x>
+      <y>5485</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3255</x>
+      <y>5495</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>7133</id>
+    <location>
+      <x>3245</x>
+      <y>5485</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3240</x>
+      <y>5480</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3250</x>
+      <y>5490</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>3</id>
+    <location>
+      <x>3279</x>
+      <y>3498</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3278</x>
+      <y>3497</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3280</x>
+      <y>3499</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>2696</id>
+    <location>
+      <x>3283</x>
+      <y>3504</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3282</x>
+      <y>3503</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3284</x>
+      <y>3505</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>2698</id>
+    <location>
+      <x>3280</x>
+      <y>3509</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3279</x>
+      <y>3508</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3281</x>
+      <y>3510</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>2698</id>
+    <location>
+      <x>3238</x>
+      <y>3516</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3237</x>
+      <y>3515</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3239</x>
+      <y>3517</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>2698</id>
+    <location>
+      <x>3227</x>
+      <y>3512</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3226</x>
+      <y>3511</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3228</x>
+      <y>3513</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>640</id>
+    <location>
+      <x>3254</x>
+      <y>3482</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3253</x>
+      <y>3481</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3255</x>
+      <y>3483</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1046</id>
+    <location>
+      <x>3212</x>
+      <y>3476</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>4657</id>
+    <location>
+      <x>3204</x>
+      <y>3472</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3203</x>
+      <y>3471</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3205</x>
+      <y>3473</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>7185</id>
+    <location>
+      <x>3207</x>
+      <y>3476</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3206</x>
+      <y>3475</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3208</x>
+      <y>3477</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>15</id>
+    <location>
+      <x>3203</x>
+      <y>3484</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3202</x>
+      <y>3483</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3204</x>
+      <y>3485</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>15</id>
+    <location>
+      <x>3206</x>
+      <y>3487</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3205</x>
+      <y>3486</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3207</x>
+      <y>3488</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>2661</id>
+    <location>
+      <x>3208</x>
+      <y>3491</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3207</x>
+      <y>3490</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3209</x>
+      <y>3492</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>7136</id>
+    <location>
+      <x>3213</x>
+      <y>3495</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3212</x>
+      <y>3494</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3214</x>
+      <y>3496</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1360</id>
+    <location>
+      <x>3251</x>
+      <y>3418</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1360</id>
+    <location>
+      <x>3252</x>
+      <y>3418</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1360</id>
+    <location>
+      <x>3253</x>
+      <y>3418</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1360</id>
+    <location>
+      <x>3254</x>
+      <y>3418</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1360</id>
+    <location>
+      <x>3255</x>
+      <y>3418</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+<id>1360</id>
+    <location>
+      <x>3256</x>
+      <y>3418</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+    <npc>
+        <id>520</id>
+        <location>
+            <x>3215</x>
+            <y>3243</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3212</x>
+            <y>3242</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3217</x>
+            <y>3243</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>521</id>
+        <location>
+            <x>3214</x>
+            <y>3242</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3212</x>
+            <y>3242</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3217</x>
+            <y>3243</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>8350</id>
+        <location>
+            <x>2744</x>
+            <y>9102</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>8350</id>
+        <location>
+            <x>2409</x>
+            <y>3854</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>456</id>
+        <location>
+            <x>3254</x>
+            <y>3484</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>2261</id>
+        <location>
+            <x>3259</x>
+            <y>3382</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>44</id>
+        <location>
+            <x>2417</x>
+            <y>3799</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>44</id>
+        <location>
+            <x>2416</x>
+            <y>3799</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>1</id>
+        <location>
+            <x>2411</x>
+            <y>3791</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+  <npc>
+    <id>2205</id>
+    <location>
+      <x>2871</x>
+      <y>10142</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3219</x>
+      <y>3211</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3219</x>
+      <y>3211</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+  <npc>
+    <id>2206</id>
+    <location>
+      <x>2887</x>
+      <y>10223</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3219</x>
+      <y>3211</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3219</x>
+      <y>3211</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+  <npc>
+    <id>322</id>
+    <location>
+      <x>3132</x>
+      <y>3514</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3219</x>
+      <y>3211</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3219</x>
+      <y>3211</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+  <npc>
+    <id>323</id>
+    <location>
+      <x>3109</x>
+      <y>3489</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3219</x>
+      <y>3211</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3219</x>
+      <y>3211</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+  <npc>
+    <id>8350</id>
+    <location>
+      <x>2909</x>
+      <y>9804</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3219</x>
+      <y>3211</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3219</x>
+      <y>3211</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+   <npc>
+    <id>8324</id>
+    <location>
+      <x>3028</x>
+      <y>3516</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3218</x>
+      <y>3221</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3226</x>
+      <y>3225</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+ <npc>
+    <id>8324</id>
+    <location>
+      <x>3024</x>
+      <y>3512</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3218</x>
+      <y>3221</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3226</x>
+      <y>3225</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+<npc>
+    <id>8324</id>
+    <location>
+      <x>3022</x>
+      <y>3517</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3218</x>
+      <y>3221</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3226</x>
+      <y>3225</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+  <npc>
+    <id>520</id>
+    <location>
+      <x>3079</x>
+      <y>3509</y>
+      <z>0</z>
+    </location>
+    <walkType>RANGE</walkType>
+    <minimumCoords>
+      <x>3218</x>
+      <y>3221</y>
+      <z>0</z>
+    </minimumCoords>
+    <maximumCoords>
+      <x>3226</x>
+      <y>3225</y>
+      <z>0</z>
+    </maximumCoords>
+  </npc>
+    <npc>
+        <id>8349</id>
+        <location>
+            <x>3251</x>
+            <y>9641</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3218</x>
+            <y>3221</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3226</x>
+            <y>3225</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>8349</id>
+        <location>
+            <x>3249</x>
+            <y>9615</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3218</x>
+            <y>3221</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3226</x>
+            <y>3225</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>8349</id>
+        <location>
+            <x>3229</x>
+            <y>9608</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3218</x>
+            <y>3221</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3226</x>
+            <y>3225</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>8349</id>
+        <location>
+            <x>3282</x>
+            <y>9638</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3218</x>
+            <y>3221</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3226</x>
+            <y>3225</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>8349</id>
+        <location>
+            <x>3279</x>
+            <y>9614</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3218</x>
+            <y>3221</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3226</x>
+            <y>3225</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>8133</id>
+        <location>
+            <x>2938</x>
+            <y>4381</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>2903</x>
+            <y>4395</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>2905</x>
+            <y>4389</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+  
+    <npc>
+        <id>941</id>
+        <location>
+            <x>3328</x>
+            <y>3700</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3333</x>
+            <y>3685</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3339</x>
+            <y>3691</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>941</id>
+        <location>
+            <x>3335</x>
+            <y>3704</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3333</x>
+            <y>3685</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3339</x>
+            <y>3691</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>941</id>
+        <location>
+            <x>3344</x>
+            <y>3698</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3333</x>
+            <y>3685</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3339</x>
+            <y>3691</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>941</id>
+        <location>
+            <x>3342</x>
+            <y>3684</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3333</x>
+            <y>3685</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3339</x>
+            <y>3691</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>941</id>
+        <location>
+            <x>3346</x>
+            <y>3676</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3333</x>
+            <y>3685</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3339</x>
+            <y>3691</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>941</id>
+        <location>
+            <x>3338</x>
+            <y>3678</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3333</x>
+            <y>3685</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3339</x>
+            <y>3691</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>941</id>
+        <location>
+            <x>3331</x>
+            <y>3692</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3333</x>
+            <y>3685</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3339</x>
+            <y>3691</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>941</id>
+        <location>
+            <x>3347</x>
+            <y>3686</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3333</x>
+            <y>3685</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3339</x>
+            <y>3691</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>941</id>
+        <location>
+            <x>3331</x>
+            <y>3680</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3333</x>
+            <y>3685</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3339</x>
+            <y>3691</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>941</id>
+        <location>
+            <x>3336</x>
+            <y>3688</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3333</x>
+            <y>3685</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3339</x>
+            <y>3691</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>941</id>
+        <location>
+            <x>3332</x>
+            <y>3696</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3335</x>
+            <y>3699</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3329</x>
+            <y>3696</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>0</id>
+        <location>
+            <x>3222</x>
+            <y>3218</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3220</x>
+            <y>3218</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3225</x>
+            <y>3219</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>520</id>
+        <location>
+            <x>3215</x>
+            <y>3243</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3212</x>
+            <y>3242</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3217</x>
+            <y>3243</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>521</id>
+        <location>
+            <x>3214</x>
+            <y>3242</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3212</x>
+            <y>3242</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3217</x>
+            <y>3243</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+    <npc>
+        <id>8349</id>
+        <location>
+            <x>3292</x>
+            <y>3182</y>
+            <z>0</z>
+        </location>
+        <walkType>RANGE</walkType>
+        <minimumCoords>
+            <x>3293</x>
+            <y>3179</y>
+            <z>0</z>
+        </minimumCoords>
+        <maximumCoords>
+            <x>3293</x>
+            <y>3189</y>
+            <z>0</z>
+        </maximumCoords>
+    </npc>
+</list>

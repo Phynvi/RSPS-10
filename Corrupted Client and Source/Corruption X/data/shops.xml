@@ -1,0 +1,367 @@
+<map>
+  <entry>
+    <int>1</int>
+    <shop>
+      <name>Melee shop</name>
+      <stock>
+        <data>
+		  <item><id>1323</id><amount>1337000</amount></item>
+		  <item><id>1325</id><amount>1337000</amount></item>
+		  <item><id>1327</id><amount>1337000</amount></item>
+		  <item><id>1329</id><amount>1337000</amount></item>
+		  <item><id>1331</id><amount>1337000</amount></item>
+		  <item><id>1333</id><amount>1337000</amount></item>
+		  <item><id>4587</id><amount>1337000</amount></item>
+		  <item><id>1305</id><amount>1337000</amount></item>
+		  <item><id>5698</id><amount>1337000</amount></item>
+		  <item><id>11128</id><amount>1337000</amount></item>
+		  <item><id>6528</id><amount>1337000</amount></item>
+                  <item><id>4153</id><amount>1337000</amount></item>
+		  <item><id>7459</id><amount>1337000</amount></item>
+		  <item><id>7460</id><amount>1337000</amount></item>
+		  <item><id>7461</id><amount>1337000</amount></item>
+		  <item><id>1725</id><amount>1337000</amount></item>
+		  <item><id>4385</id><amount>1337000</amount></item>
+		  <item><id>391</id><amount>1337000</amount></item>
+		  <item><id>3105</id><amount>1337000</amount></item>
+		  <item><id>145</id><amount>1337000</amount></item>
+		  <item><id>157</id><amount>1337000</amount></item>
+		  <item><id>163</id><amount>1337000</amount></item>
+		  <item><id>139</id><amount>1337000</amount></item>
+		 
+
+		</data>
+      </stock>
+    </shop>
+  </entry>
+    <entry>
+    <int>2</int>
+    <shop>
+      <name>Magic shop</name>
+      <stock>
+        <data>
+		  <item><id>1381</id><amount>1337000</amount></item>
+		  <item><id>1383</id><amount>1337000</amount></item>
+		  <item><id>1385</id><amount>1337000</amount></item>
+		  <item><id>1387</id><amount>1337000</amount></item>
+ <item><id>4675</id><amount>1337000</amount></item>
+		  <item><id>579</id><amount>1337000</amount></item>
+		  <item><id>577</id><amount>1337000</amount></item>
+		  <item><id>1011</id><amount>1337000</amount></item>
+		  <item><id>2579</id><amount>1337000</amount></item>
+		  <item><id>4089</id><amount>1337000</amount></item>
+		  <item><id>4091</id><amount>1337000</amount></item>
+		  <item><id>4093</id><amount>1337000</amount></item>
+          <item><id>4095</id><amount>1337000</amount></item>
+		  <item><id>4097</id><amount>1337000</amount></item>
+		  <item><id>9096</id><amount>1337000</amount></item>
+		  <item><id>9097</id><amount>1337000</amount></item>
+		  <item><id>9098</id><amount>1337000</amount></item>
+		  <item><id>9099</id><amount>1337000</amount></item>
+		  <item><id>9100</id><amount>1337000</amount></item>
+		  <item><id>9101</id><amount>1337000</amount></item>
+		  <item><id>9102</id><amount>1337000</amount></item>
+		  <item><id>9103</id><amount>1337000</amount></item>
+		  <item><id>9104</id><amount>1337000</amount></item>
+		  <item><id>4099</id><amount>1337000</amount></item>
+		  <item><id>4101</id><amount>1337000</amount></item>
+          <item><id>4103</id><amount>1337000</amount></item>
+		  <item><id>4105</id><amount>1337000</amount></item>
+		  <item><id>4107</id><amount>1337000</amount></item>
+		  <item><id>4109</id><amount>1337000</amount></item>
+		  <item><id>4111</id><amount>1337000</amount></item>
+		  <item><id>4113</id><amount>1337000</amount></item>
+		  <item><id>4115</id><amount>1337000</amount></item>
+		  <item><id>4117</id><amount>1337000</amount></item>	  
+	  <item><id>6916</id><amount>1337000</amount></item>
+		  <item><id>6918</id><amount>1337000</amount></item>
+		  <item><id>6920</id><amount>1337000</amount></item>
+  <item><id>6922</id><amount>1337000</amount></item>
+		  <item><id>6924</id><amount>1337000</amount></item>
+		
+		  
+		  
+
+
+		  
+		
+		</data>
+      </stock>
+    </shop>
+  </entry>
+    <entry>
+    <int>3</int>
+    <shop>
+      <name>Robe shop</name>
+      <stock>
+        <data>    <item><id>6106</id><amount>1337000</amount></item>
+		  <item><id>6107</id><amount>1337000</amount></item>
+		  <item><id>6108</id><amount>1337000</amount></item>
+		  <item><id>6109</id><amount>1337000</amount></item>
+		  <item><id>6110</id><amount>1337000</amount></item>
+		  <item><id>6111</id><amount>1337000</amount></item>
+   		  <item><id>10400</id><amount>1337000</amount></item>
+		  <item><id>10402</id><amount>1337000</amount></item>
+		  <item><id>10460</id><amount>1337000</amount></item>
+		  <item><id>10468</id><amount>1337000</amount></item>
+		  <item><id>10458</id><amount>1337000</amount></item>
+		  <item><id>10464</id><amount>1337000</amount></item>
+ 	          <item><id>10462</id><amount>1337000</amount></item>
+		  <item><id>10466</id><amount>1337000</amount></item>
+ 		  <item><id>11280</id><amount>1337000</amount></item>
+  <item><id>14745</id><amount>1337000</amount></item>
+		  <item><id>14747</id><amount>1337000</amount></item>
+		  <item><id>14751</id><amount>1337000</amount></item>  
+		  <item><id>14753</id><amount>1337000</amount></item>
+				  
+
+		</data>
+      </stock>
+    </shop>
+  </entry>
+   <entry>
+    <int>4</int>
+    <shop>
+      <name>Skilling shop</name>
+      <stock>
+        <data>
+  		  <item><id>590</id><amount>1337000</amount></item>
+		  <item><id>1351</id><amount>1337000</amount></item>
+ <item><id>1359</id><amount>1337000</amount></item>
+		  <item><id>1265</id><amount>1337000</amount></item>
+  <item><id>1275</id><amount>1337000</amount></item>
+		  <item><id>303</id><amount>1337000</amount></item>
+		  <item><id>305</id><amount>1337000</amount></item>
+		  <item><id>311</id><amount>1337000</amount></item>
+		  <item><id>2347</id><amount>1337000</amount></item>
+		  <item><id>227</id><amount>1337000</amount></item>
+		  <item><id>199</id><amount>1337000</amount></item>
+		  <item><id>201</id><amount>1337000</amount></item>
+		  <item><id>203</id><amount>1337000</amount></item>
+		  <item><id>205</id><amount>1337000</amount></item>
+		  <item><id>207</id><amount>1337000</amount></item>
+		  <item><id>209</id><amount>1337000</amount></item>
+		  <item><id>211</id><amount>1337000</amount></item>
+		  <item><id>213</id><amount>1337000</amount></item>
+		  <item><id>215</id><amount>1337000</amount></item>
+		  <item><id>217</id><amount>1337000</amount></item>
+		  <item><id>219</id><amount>1337000</amount></item>
+		  <item><id>1755</id><amount>1337000</amount></item>
+		  <item><id>1617</id><amount>1337000</amount></item>
+		  <item><id>1619</id><amount>1337000</amount></item>
+		  <item><id>1621</id><amount>1337000</amount></item>
+		  <item><id>1623</id><amount>1337000</amount></item>
+		  <item><id>1625</id><amount>1337000</amount></item>
+		  <item><id>1627</id><amount>1337000</amount></item>
+		  <item><id>1629</id><amount>1337000</amount></item>
+		  <item><id>1631</id><amount>1337000</amount></item>
+  <item><id>1511</id><amount>1337000</amount></item>
+		  <item><id>1513</id><amount>1337000</amount></item>
+		  <item><id>1515</id><amount>1337000</amount></item>
+		  <item><id>1517</id><amount>1337000</amount></item>
+		  <item><id>1519</id><amount>1337000</amount></item>
+		  <item><id>1521</id><amount>1337000</amount></item>
+	
+	
+		
+
+		
+
+		</data>
+      </stock>
+    </shop>
+  </entry>
+  <entry>
+    <int>5</int>
+    <shop>
+      <name>Summoning shop</name>
+      <stock>
+        <data>
+  		  <item><id>12210</id><amount>1337000</amount></item>
+		  <item><id>12213</id><amount>1337000</amount></item>
+		  <item><id>12216</id><amount>1337000</amount></item>
+		  <item><id>12219</id><amount>1337000</amount></item>
+		  <item><id>12222</id><amount>1337000</amount></item>
+		  <item><id>12183</id><amount>1337000</amount></item>
+                  <item><id>12155</id><amount>1337000</amount></item>
+		 
+
+		  <item><id>12029</id><amount>1337000</amount></item>
+		
+		  <item><id>12023</id><amount>1337000</amount></item>
+		  <item><id>12047</id><amount>1337000</amount></item>
+		  <item><id>12083</id><amount>1337000</amount></item>
+                  <item><id>12099</id><amount>1337000</amount></item>
+  <item><id>12097</id><amount>1337000</amount></item>
+		  <item><id>12095</id><amount>1337000</amount></item>
+                  <item><id>12093</id><amount>1337000</amount></item>
+  <item><id>12101</id><amount>1337000</amount></item>
+		  <item><id>12790</id><amount>1337000</amount></item>
+                  <item><id>12786</id><amount>1337000</amount></item>
+  <item><id>12784</id><amount>1337000</amount></item>
+		  <item><id>12788</id><amount>1337000</amount></item>
+		  <item><id>2859</id><amount>1337000</amount></item>
+		  <item><id>2138</id><amount>1337000</amount></item>
+		  
+                
+
+	
+		 
+		
+
+		</data>
+      </stock>
+    </shop>
+  </entry>
+ <entry>
+    <int>6</int>
+    <shop>
+      <name>Skillcape shop</name>
+      <stock>
+        <data>
+  		  <item><id>9771</id><amount>1337000</amount></item>
+		  <item><id>9747</id><amount>1337000</amount></item>
+		  <item><id>9801</id><amount>1337000</amount></item>
+		  <item><id>9753</id><amount>1337000</amount></item>
+		  <item><id>9804</id><amount>1337000</amount></item>
+		  <item><id>9798</id><amount>1337000</amount></item>
+		  <item><id>9783</id><amount>1337000</amount></item>
+		  <item><id>9774</id><amount>1337000</amount></item>
+		  <item><id>9768</id><amount>1337000</amount></item>
+		  <item><id>9762</id><amount>1337000</amount></item>
+		  <item><id>9759</id><amount>1337000</amount></item>
+                  <item><id>9756</id><amount>1337000</amount></item>
+		  <item><id>9786</id><amount>1337000</amount></item>
+	          <item><id>9795</id><amount>1337000</amount></item>
+		  <item><id>9750</id><amount>1337000</amount></item>
+		  <item><id>12169</id><amount>1337000</amount></item>
+                  <item><id>9777</id><amount>1337000</amount></item>
+  	          <item><id>9807</id><amount>1337000</amount></item>
+			   <item><id>9792</id><amount>1337000</amount></item>
+		 	
+		  
+		
+
+		</data>
+      </stock>
+    </shop>
+  </entry>
+ <entry>
+    <int>7</int>
+    <shop>
+      <name>Ranging shop</name>
+      <stock>
+        <data>
+  		  <item><id>882</id><amount>13370</amount></item>
+		  <item><id>884</id><amount>13370</amount></item>
+		  <item><id>886</id><amount>13370</amount></item>
+		  <item><id>888</id><amount>13370</amount></item>
+		  <item><id>890</id><amount>13370</amount></item>
+		  <item><id>841</id><amount>1337000</amount></item>
+		  <item><id>857</id><amount>1337000</amount></item>
+		  <item><id>861</id><amount>1337000</amount></item>
+		  <item><id>1135</id><amount>1337000</amount></item>
+		  <item><id>1099</id><amount>1337000</amount></item>
+		  <item><id>1065</id><amount>1337000</amount></item>
+                  <item><id>2499</id><amount>1337000</amount></item>
+		  <item><id>2493</id><amount>1337000</amount></item>
+	          <item><id>2487</id><amount>1337000</amount></item>
+		  <item><id>2501</id><amount>1337000</amount></item>
+		  <item><id>2495</id><amount>1337000</amount></item>
+                  <item><id>2489</id><amount>1337000</amount></item>
+  	          <item><id>2503</id><amount>1337000</amount></item>
+		  <item><id>2497</id><amount>1337000</amount></item>
+                  <item><id>2491</id><amount>1337000</amount></item>
+		  <item><id>9185</id><amount>1337000</amount></item>
+		  <item><id>9244</id><amount>13370</amount></item>
+		  <item><id>868</id><amount>13370</amount></item>
+ 		  <item><id>15241</id><amount>13370</amount></item>
+		  <item><id>15243</id><amount>133700</amount></item>
+
+		
+		
+		  
+		
+
+		</data>
+      </stock>
+    </shop>
+  </entry>
+<entry>
+    <int>8</int>
+    <shop>
+      <name>Melee armour shop</name>
+      <stock>
+        <data>
+		<item><id>3751</id><amount>1337000</amount></item>
+		<item><id>6524</id><amount>1337000</amount></item>
+		<item><id>10828</id><amount>1337000</amount></item>
+		<item><id>4131</id><amount>1337000</amount></item>
+		<item><id>6735</id><amount>1337000</amount></item>
+                <item><id>11732</id><amount>1337000</amount></item>
+
+		  <item><id>544</id><amount>1337000</amount></item>
+		  <item><id>542</id><amount>1337000</amount></item>
+  		  <item><id>1153</id><amount>1337000</amount></item>
+		  <item><id>1163</id><amount>1337000</amount></item>
+		  <item><id>1115</id><amount>1337000</amount></item>
+                  <item><id>1127</id><amount>1337000</amount></item>
+		  <item><id>1067</id><amount>1337000</amount></item>
+	          <item><id>1079</id><amount>1337000</amount></item>
+		  <item><id>1081</id><amount>1337000</amount></item>
+		  <item><id>1093</id><amount>1337000</amount></item>
+		  <item><id>1191</id><amount>1337000</amount></item>  
+		  <item><id>1201</id><amount>1337000</amount></item>
+  		
+		  <item><id>9672</id><amount>1337000</amount></item>
+		  <item><id>9674</id><amount>1337000</amount></item>
+		  <item><id>9676</id><amount>1337000</amount></item>  
+		  <item><id>9678</id><amount>1337000</amount></item>
+
+
+		 	  
+		
+
+		</data>
+      </stock>
+    </shop>
+  </entry>
+  <entry>
+    <int>9</int>
+    <shop>
+      <name>Trimmed Skillcape shop</name>
+      <stock>
+        <data>
+  		  <item><id>9748</id><amount>1337000</amount></item>
+		  <item><id>9751</id><amount>1337000</amount></item>
+		  <item><id>9754</id><amount>1337000</amount></item>
+		  <item><id>9757</id><amount>1337000</amount></item>
+		  <item><id>9760</id><amount>1337000</amount></item>
+		  <item><id>9763</id><amount>1337000</amount></item>
+		  <item><id>9766</id><amount>1337000</amount></item>
+		  <item><id>9769</id><amount>1337000</amount></item>
+		  <item><id>9772</id><amount>1337000</amount></item>
+		  <item><id>9775</id><amount>1337000</amount></item>
+		  <item><id>9778</id><amount>1337000</amount></item>
+                  <item><id>9781</id><amount>1337000</amount></item>
+		  <item><id>9784</id><amount>1337000</amount></item>
+	          <item><id>9787</id><amount>1337000</amount></item>
+		  <item><id>9790</id><amount>1337000</amount></item>
+		  <item><id>9793</id><amount>1337000</amount></item>
+                  <item><id>9796</id><amount>1337000</amount></item>
+  	          <item><id>9799</id><amount>1337000</amount></item>
+ 		  <item><id>9802</id><amount>1337000</amount></item>
+		  <item><id>9805</id><amount>1337000</amount></item>
+                  <item><id>9808</id><amount>1337000</amount></item>
+  	          <item><id>9811</id><amount>1337000</amount></item>
+ 	          <item><id>9949</id><amount>1337000</amount></item>
+  	          <item><id>12170</id><amount>1337000</amount></item>
+		 	
+		  
+		
+
+		</data>
+      </stock>
+    </shop>
+  </entry>
+</map>
