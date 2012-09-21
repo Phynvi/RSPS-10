@@ -1,0 +1,41 @@
+    public static void dumpClipping(int lol)
+    {
+        try {
+      //Stream localStream = new Stream(new byte[1000000]);
+      for (int i = 0; i < 3; ++i) {
+        int[][] arrayOfInt =  Class131_Sub2_Sub9.aClass19Array5682[i].clipping;
+
+        for (int j = 0; j < arrayOfInt.length; ++j)
+          for (int k = 0; k < arrayOfInt[j].length; ++k) {
+           /* localStream.writeByte(i);
+            localStream.writeShort(j);
+            localStream.writeShort(k);
+            localStream.writeInt(arrayOfInt[j][k]);*/
+        	  int objectx = j+Class92.regionX;
+        	  int objecty = k+Class64.regionY;
+          	  File file = new File("objects/" + objectx + "_" + objecty+"_"+i+".txt");
+              if (!file.exists()) {
+              BufferedWriter bw = new BufferedWriter(new FileWriter(file, true));
+					bw.write("["+objectx+"]["+objecty+"]["+i+"] = "+arrayOfInt[j][k]+";");
+                  bw.newLine();
+                  bw.flush();
+                  bw.close();
+                  client.sendMessage("Dumped ["+objectx+"]["+objecty+"]["+i+"] = "+arrayOfInt[j][k]+";");
+              }
+        	  //client.sendMessage("["+objectx+"]["+objecty+"]["+i+"] = "+arrayOfInt[j][k]+";");
+          }
+      }
+      try
+      {
+    /*    FileOutputStream localFileOutputStream = new FileOutputStream("RegionDump/map_" + Class92.regionX + "_" + Class64.regionY + ".dat");
+        localFileOutputStream.write(localStream.data, 0, localStream.offset);
+        localFileOutputStream.flush();
+        localFileOutputStream.close();
+        client.sendMessage("Done!");*/
+      } catch (Exception localException) {
+        client.sendMessage(localException.toString());
+      }
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+    }

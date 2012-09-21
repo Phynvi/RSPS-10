@@ -1,0 +1,7 @@
+	    		p.getActionSender().sendChatboxInterface(241);
+	    		p.getActionSender().animateInterface(9850, 241, 2);
+	    		p.getActionSender().sendNPCOnInterface(8275, 241, 2);
+                	p.getActionSender().sendString("Duradel", 241, 3);
+                	p.getActionSender().sendString("Your task is to kill "+p.slayerAmount+" "+new NPC(p.slayerNPC).getDefinition().getName()+".", 241, 4);
+                	p.getActionSender().sendChatboxInterface(241);
+			p.slayerMaster = 1;

@@ -1,0 +1,9 @@
+inter 598 = zammy lair...
+inter 5907 = normal lair <3
+
+
+
+597,2: Armadyl count
+597 3: Bando count
+597,4: sara count
+597 5: zammy count

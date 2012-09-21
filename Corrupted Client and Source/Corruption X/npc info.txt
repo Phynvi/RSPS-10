@@ -1,0 +1,43 @@
+graardor
+6260
+belly flop
+7063
+norm
+7060
+def
+7061
+death 
+7064 or 7062
+
+kree'araa
+6222
+atk1
+6976
+atk2
+6977
+def
+6974
+death
+6975
+
+icefiend
+6217
+spawn
+8081
+atk
+8080
+def
+8079
+death
+8078
+
+aviansies
+6232-26246
+atk1
+6953
+atk2
+6954
+def
+6955 or 6952
+death
+6956

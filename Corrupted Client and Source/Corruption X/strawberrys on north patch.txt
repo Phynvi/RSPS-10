@@ -1,0 +1,11 @@
+object id- 8595-8601 = strawberry growth :D
+
+plant1: 2814,3467
+plant2: 2814,3468
+to:
+plant9: 2805,3468
+plant10: 2805,3467
+
+
+plant12: 2805,3466
+plant13: 2806,3466
